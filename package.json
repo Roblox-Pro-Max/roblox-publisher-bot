@@ -1,0 +1,14 @@
+{
+  "name": "roblox-publisher-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot for publishing Roblox games",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.64.0",
+    "axios": "^1.6.0",
+    "form-data": "^4.0.0"
+  }
+}
